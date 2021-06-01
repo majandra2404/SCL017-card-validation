@@ -20,7 +20,7 @@ en la cual los usuarios podran seleccionar uno o mas de un catalogo, y luego pod
 
 ## 2. Investigacion UX
 
-##### I.¿ Quiénes son los usuarios y los objetivos en relación con el producto.
+## I.¿ Quiénes son los usuarios y los objetivos en relación con el producto.
 
 Son usuarios bastante exigentes y por eso suelen destinar bastante tiempo a comparar 
 los productos o los servicios de diferentes webs.
@@ -42,10 +42,6 @@ las webs en las que se han interesado tengan un proceso de compra claro y que im
 pasos y sin que les obligue a registrarse para poder realizar la compra.
 
 
-# Imagenes
-![imagen1]https://github.com/majandra2404/SCL017-card-validation/blob/master/imagenes/IMG_20210518_072226.jpg
-https://github.com/majandra2404/SCL017-card-validation/blob/master/imagenes/IMG_20210518_072242.jpg
-https://github.com/majandra2404/SCL017-card-validation/blob/master/imagenes/IMG_20210518_072352.jpg
 
-Enlace proyecto][ https://majandra2404.github.io/SCL017-card-validation/src/
+Enlace proyecto https://majandra2404.github.io/SCL017-card-validation/src/
 
