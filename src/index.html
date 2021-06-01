@@ -2,13 +2,65 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Tarjeta de crédito válida</title>
+    
+    <title>Caracol Balloons</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.2/css/all.css">
     <link rel="stylesheet" href="style.css" />
+    
   </head>
   <body>
     <header></header>
-    <main></main>
-    <footer></footer>
+    <main>
+      <div class="wrapper">
+        <div class="payment">
+          <div class="">
+            <p></p>
+          </div>
+          
+          
+          <h2>Medio de Pago</h2>
+          <div class="form">
+            <div class="card space icon-relative">
+              <label class="label">Titular de la Tarjeta:</label>
+              <input type="text" class="input" placeholder="Nombre Titular">
+              <i class="fas fa-user"></i>
+            </div>
+            <div class="card space icon-relative">
+              <label class="label">Numero de Tárjeta:</label>
+              <input type="text" class="input" data-mask="0000 0000 0000 0000" placeholder="Nro Tarjeta Valida" maxlength="16" id="numcard"> 
+              <i class="far fa-credit-card"></i>
+            </div>
+               <input type="hidden" id="numero" >
+
+            <div class="card-grp space">
+              <div class="card-item icon-relative">
+                <label class="label">Fecha  Venc:</label>
+                <input type="text" name="expiry-data" class="input" data-mask="00 / 00"  placeholder="00 / 00">
+                <i class="far fa-calendar-alt"></i>
+              </div>
+              <div class="card-item icon-relative">
+                <label class="label">CVC:</label>
+                <input type="text" class="input" data-mask="000" placeholder="000">
+                <i class="fas fa-lock"></i>
+              </div>
+            </div>
+              
+            <button class="btn" id="btn">
+             Pagar 
+            </button> 
+
+            
+            
+          </div>
+        </div>
+      </div>
+
+
+
+    </main>
+    <footer> <p>Autor: Maria Parra</p></footer>
     <script src="index.js" type="module"></script>
+  <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
   </body>
 </html>
