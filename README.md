@@ -3,7 +3,7 @@
 ## Índice
 
 * [1. Resumen del proyecto](#1-resumen-del-proyecto)
-* [2. Resumen del proyecto](#2-resumen-del-proyecto)
+* [2. Investigacion UX](#2-investigacionde-del-proyecto)
 * [3. Objetivos de aprendizaje](#3-objetivos-de-aprendizaje)
 * [4. Consideraciones generales](#4-consideraciones-generales)
 * [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
@@ -43,9 +43,9 @@ pasos y sin que les obligue a registrarse para poder realizar la compra.
 
 
 # Imagenes
-https://github.com/majandra2404/SCL017-card-validation/blob/master/imagenes/IMG_20210518_072226.jpg
+![imagen1]https://github.com/majandra2404/SCL017-card-validation/blob/master/imagenes/IMG_20210518_072226.jpg
 https://github.com/majandra2404/SCL017-card-validation/blob/master/imagenes/IMG_20210518_072242.jpg
 https://github.com/majandra2404/SCL017-card-validation/blob/master/imagenes/IMG_20210518_072352.jpg
 
-Enlace proyecto https://majandra2404.github.io/SCL017-card-validation/src/
+Enlace proyecto][ https://majandra2404.github.io/SCL017-card-validation/src/
 
