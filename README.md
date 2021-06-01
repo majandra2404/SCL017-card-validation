@@ -1,26 +1,15 @@
-# Tarjeta de crédito válida
-
-## Índice
-
-* [1. Resumen del proyecto](#1-resumen-del-proyecto)
-* [2. Investigacion UX](#2-investigacionde-del-proyecto)
-* [3. Objetivos de aprendizaje](#3-objetivos-de-aprendizaje)
-* [4. Consideraciones generales](#4-consideraciones-generales)
-* [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
-* [6. Pistas, tips y lecturas complementarias](#6-pistas-tips-y-lecturas-complementarias)
-
-***
+# (Caracol Balloons) Tarjeta de crédito válida
 
 ## 1. Resumen del proyecto
 
 Pensando en un sitio web de arreglos en globos para cualquier tipo de evento,
 en la cual los usuarios podran seleccionar uno o mas de un catalogo, y luego podrán procesar la compra.
 
-![gráfica de algoritmo de Luhn](https://www.101computing.net/wp/wp-content/uploads/Luhn-Algorithm.png)
+
 
 ## 2. Investigacion UX
 
-## I.¿ Quiénes son los usuarios y los objetivos en relación con el producto.
+ Quiénes son los usuarios y los objetivos en relación con el producto.
 
 Son usuarios bastante exigentes y por eso suelen destinar bastante tiempo a comparar 
 los productos o los servicios de diferentes webs.
@@ -33,7 +22,7 @@ productos y de poder guardarlos en una lista de "favoritos" o lista de "deseos".
 
 
 
-####II.¿Cómo el producto soluciona los problemas/necesidades de dichos usuarios?
+¿Cómo el producto soluciona los problemas/necesidades de dichos usuarios?
 
 Es decir, son compradores online que desean y esperan "experiencias online" de servicio,
 completas, por eso lo que más valoran es que la web sea muy atractiva (diseño de alto impacto),
